@@ -11,7 +11,7 @@ Open file in read mode.
 ## Step 2: 
 Read the text using read funcion.
  
-##Step 3: 
+## Step 3: 
 Split the text using space separator.
 
 ## Step 4: 
